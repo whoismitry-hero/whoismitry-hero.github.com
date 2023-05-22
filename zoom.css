@@ -18,9 +18,6 @@ img.zoom-img {
   cursor: -webkit-zoom-out;
   cursor: -moz-zoom-out;
 }
-
-
-
 .zoom-overlay {
   z-index: 420;
   background: #000;
